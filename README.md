@@ -1,2 +1,2 @@
 # PythonNutrition
-First year university project in Python to trach nutrition goals
+First year university project in Python to track nutrition goals
